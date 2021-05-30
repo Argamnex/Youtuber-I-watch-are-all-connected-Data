@@ -1,0 +1,897 @@
+Source,Target,Weight
+MrBeast,Mark Rober,10
+MrBeast,Marques Brownlee,10
+MrBeast,Casey Neistat ,10
+MrBeast,Zach King,10
+MrBeast,Chris Ramsay,10
+MrBeast,Dream,10
+MrBeast,GeorgeNotFound,10
+MrBeast,The Game Theorists,10
+MrBeast,Jaiden Animations,10
+MrBeast,TheOdd1sOut,10
+MrBeast,PewDiePie,10
+PewDiePie,Boyinaband,10
+PewDiePie,RoomieOfficial,10
+AnthonyPadilla,MrBeast,10
+AnthonyPadilla,PewDiePie,10
+AnthonyPadilla,TheOdd1sOut,10
+AnthonyPadilla,Jaiden Animations,10
+AnthonyPadilla,illymation,10
+AnthonyPadilla,SomeThingElseYT,10
+TheOdd1sOut,Jaiden Animations,10
+TheOdd1sOut,Boyinaband,10
+TheOdd1sOut,RoomieOfficial,10
+Sultan Sketches,illymation,10
+Sultan Sketches,TheAMaazing,10
+Sultan Sketches,Emirichu,10
+Sultan Sketches,Tabbes,10
+Tabbes,Laddi,10
+Tabbes,TheOdd1sOut,10
+Tabbes,Wolfychu,10
+illymation,Wolfychu,10
+Wolfychu,TheOdd1sOut,10
+Wolfychu,Emirichu,10
+Emirichu,TheAMaazing,10
+Emirichu,TimTom,10
+Emirichu,CDawgVA,10
+Emirichu,Daidus,10
+Emirichu,The Anime Man,10
+FootofaFerret,Jaiden Animations,10
+FootofaFerret,TheOdd1sOut,10
+FootofaFerret,TimTom,10
+FootofaFerret,SomeThingElseYT,10
+FootofaFerret,Tabbes,10
+FootofaFerret,Domics,10
+FootofaFerret,Let Me Explain Studios,10
+Let Me Explain Studios,SomeThingElseYT,10
+RushLight Invader,TheOdd1sOut,10
+RushLight Invader,SomeThingElseYT,10
+RushLight Invader,Jaiden Animations,10
+RushLight Invader,shgurr,10
+RushLight Invader,Tabbes,10
+RushLight Invader,TheAMaazing,10
+Laddi,RushLight Invader,10
+TheAMaazing,Laddi,10
+TheAMaazing,Jaiden Animations,10
+TheAMaazing,TheOdd1sOut,10
+shgurr,Jaiden Animations,10
+shgurr,TheOdd1sOut,10
+Domics,Jaiden Animations,10
+Domics,GingerPale,10
+illymation,SomeThingElseYT,10
+SomeThingElseYT,TheOdd1sOut,10
+SomeThingElseYT,Jaiden Animations,10
+Life Noggin,MrBeast,10
+Life Noggin,TheOdd1sOut,10
+Life Noggin,Jaiden Animations,10
+Life Noggin,Juniper,10
+Life Noggin,AnthonyPadilla,10
+Life Noggin,TierZoo,10
+Life Noggin,GingerPale,10
+GingerPale,CircletoonsHD,10
+GingerPale,Jaiden Animations,10
+Jaiden Animations,Boyinaband,10
+The Anime Man,Daidus,10
+The Anime Man,PewDiePie,10
+The Anime Man,Gigguk,10
+The Anime Man,Abroad in Japan,10
+The Anime Man,MrBeast,5
+Abroad in Japan,CDawgVA,10
+Dogen,CDawgVA,10
+Dogen,The Anime Man,5
+Dogen,Abroad in Japan,5
+Mark Rober,SmarterEveryDay,10
+Mark Rober,Captain Disillusion,10
+SmarterEveryDay,Steve Mould,10
+Veritasium,SmarterEveryDay,10
+Veritasium,Physics Girl,10
+Veritasium,Vsauce,10
+Veritasium,Numberphile,10
+Veritasium,Vihart,10
+Veritasium,MinutePhysics,10
+Veritasium,CGPGrey,10
+Steve Mould,Stand-up Maths,10
+3Blue1Brown,Stand-up Maths,10
+3Blue1Brown,Wendover Productions,10
+3Blue1Brown,Welch Labs,10
+3Blue1Brown,MinutePhysics,10
+3Blue1Brown,Ben Eater,10
+3Blue1Brown,Mathologer,10
+3Blue1Brown,singingbanana,10
+3Blue1Brown,Numberphile,10
+3Blue1Brown,Looking Glass Universe,10
+3Blue1Brown,Veritasium,10
+3Blue1Brown,Steve Mould,10
+3Blue1Brown,SmarterEveryDay,5
+3Blue1Brown,Vsauce,5
+3Blue1Brown,Think Twice,5
+3Blue1Brown,Physics Girl,10
+Numberphile,Veritasium,10
+Numberphile,Vsauce,10
+Numberphile,SmarterEveryDay,10
+Numberphile,MinutePhysics,10
+Numberphile,CGPGrey,10
+Numberphile,Vihart,10
+Numberphile,Stand-up Maths,10
+Numberphile,singingbanana,10
+Numberphile,Steve Mould,10
+Numberphile,Tom Rocks Maths,10
+singingbanana,Tom Rocks Maths,10
+Tom Rocks Maths,3Blue1Brown,10
+Stand-up Maths,Dream,5
+Stand-up Maths,singingbanana,10
+TheOdd1sOut,Vihart,5
+TheOdd1sOut,CGPGrey,5
+CGPGrey,Kurzgesagt - In a Nutshell,10
+TierZoo,Casually Explained,10
+RealLifeLore,TierZoo,10
+RealLifeLore,WonderWhy,10
+WonderWhy,Atlas Pro,10
+Atlas Pro,Real Science,5
+Real Science,Real Engineering,10
+Real Engineering,Wendover Productions,10
+Real Engineering,MinutePhysics,10
+Wendover Productions,Half as Interesting,10
+MinuteEarth,MinutePhysics,10
+MinuteEarth,3Blue1Brown,10
+MinuteEarth,Physics Girl,10
+MinuteEarth,Tom Scott,10
+MinuteEarth,Looking Glass Universe,10
+MinuteEarth,Welch Labs,10
+MinuteEarth,TierZoo,10
+MinuteEarth,Jabrils,10
+MinuteEarth,It's Okay to be Smart,10
+It's Okay to be Smart,Vsauce,5
+Tom Scott,Steve Mould,10
+Tom Scott,Up and Atom,10
+Tom Scott,12tone,10
+Tom Scott,jacksfilms,10
+Tom Scott,LegalEagle,10
+Tom Scott,Jay Foreman,10
+Tom Scott,Mumbo Jumbo,5
+Tom Scott,Technology Connections,10
+Tom Scott,Jaiden Animations,10
+Tom Scott,LDShadowLady,10
+Tom Scott,SmallishBeans,10
+Tom Scott,Answer in Progress,10
+Tom Scott,hbomberguy,10
+Tom Scott,MrBeast,10
+Jabrils,Up and Atom,10
+Jabrils,3Blue1Brown,10
+Jabrils,Physics Girl,10
+Flammable Maths,Dr Peyam,10
+Flammable Maths,3Blue1Brown,10
+Flammable Maths,Think Twice,10
+Flammable Maths,DorFuchs,10
+Flammable Maths,Tibees,10
+Flammable Maths,Andrew Dotson,10
+Flammable Maths,Mathologer,10
+Flammable Maths,blackpenredpen,10
+Flammable Maths,Epic Math Time,10
+Flammable Maths,Stand-up Maths,10
+Flammable Maths,Zach Star,10
+Flammable Maths,singingbanana,10
+Flammable Maths,vcubingx,10
+blackpenredpen,Dr Peyam,10
+blackpenredpen,Michael Penn,10
+blackpenredpen,Mu Prime Math,10
+Tom Rocks Maths,blackpenredpen,10
+Andrew Dotson,Zach Star,10
+Andrew Dotson,Epic Math Time,10
+Epic Math Time,Zach Star,10
+Epic Math Time,Wrath of Math,10
+Epic Math Time,CalebCity,5
+12tone,Adam Neely,10
+Tantacrul,hbomberguy,10
+David Bruce Composer,ANDREW HUANG,5
+David Bruce Composer,Tantacrul,10
+David Bruce Composer,Adam Neely,10
+David Bruce Composer,Ben Levin,10
+David Bruce Composer,Nahre Sol,10
+David Bruce Composer,David Bennett Piano,10
+David Bruce Composer,8-bit Music Theory,10
+David Bruce Composer,Red Means Recording,10
+David Bennett Piano,Mumbo Jumbo,10
+Adam Neely,Paul Davids,10
+Adam Neely,Ben Levin,10
+Adam Neely,Nahre Sol,10
+Adam Neely,samuraiguitarist,10
+samuraiguitarist,Paul Davids,10
+Nahre Sol,ANDREW HUANG,10
+ANDREW HUANG,RoomieOfficial,10
+ANDREW HUANG,Boyinaband,10
+ANDREW HUANG,Rob Scallon,10
+Boyinaband,RoomieOfficial,10
+Boyinaband,Rob Scallon,10
+RoomieOfficial,Twosetviolin,10
+RoomieOfficial,Davie504,10
+RoomieOfficial,Daniel Thrasher,10
+Daniel Thrasher,Charles Cornell,5
+Davie504,Twosetviolin,10
+Davie504,Joe Jenkins,5
+Davie504,Daniel Thrasher,5
+Davie504,SethEverman,10
+FootofaFerret,The Game Theorists,10
+Domics,jacksfilms,10
+AnthonyPadilla,nigahiga,10
+AnthonyPadilla,jacksfilms,10
+AnthonyPadilla,Danny Gonzalez,10
+Jabrils,Dani,10
+Dani,Randy,10
+Paddy Galloway,PewDiePie,5
+Paddy Galloway,Mark Rober,5
+Paddy Galloway,MrBeast,5
+Paddy Galloway,Dream,5
+Paddy Galloway,Marques Brownlee,5
+Paddy Galloway,Dude Perfect,5
+Paddy Galloway,TommyInnit,5
+Paddy Galloway,Casey Neistat ,5
+Mark Rober,Jim Browning,10
+Jonas Tyroller,Blackthornprod,10
+Jonas Tyroller,Dani,5
+Jonas Tyroller,Brackeys,5
+Jonas Tyroller,Sam Hogan,10
+Game Maker's Toolkit,Jonas Tyroller,5
+Game Maker's Toolkit,Blackthornprod,5
+Game Maker's Toolkit,Sam Hogan,10
+Brackeys,BenBonk,10
+Jonas Tyroller,BenBonk,10
+Ben Eater,Sebastian Lague,5
+Computerphile,Numberphile,10
+Computerphile,Tom Scott,10
+Numberphile,Tom Scott,10
+PolyMatter,MrBeast,5
+KhAnubis,Up and Atom,10
+KhAnubis,Mr. Beat,10
+KhAnubis,Atlas Pro,10
+KhAnubis,Spaghetti Road,10
+Vexillographer,KhAnubis,10
+Vexillographer,Vexillology Hub,10
+Vexillographer,Geography Now,5
+Jay Foreman,Geography Now,10
+Geography Now,Artur Rehi,10
+Artur Rehi,OverSimplified,5
+Artur Rehi,Extra Credits,5
+Artur Rehi,No Idea Animation,5
+Artur Rehi,Life of Boris,5
+Artur Rehi,RealLifeLore,5
+Artur Rehi,bill wurtz,5
+Mr. Terry History,OverSimplified,5
+Mr. Terry History,Extra Credits,5
+Mr. Terry History,bill wurtz,5
+Mr. Terry History,ibxtoycat,5
+Mr. Terry History,Atlas Pro,5
+12tone,Alliterative,10
+Alliterative,KhAnubis,10
+Mark Rober,The Game Theorists,10
+Mark Rober,Casey Neistat ,10
+Mark Rober,Marques Brownlee,10
+CallMeCarson,SethEverman,10
+CallMeCarson,TheOdd1sOut,10
+CallMeCarson,Jaiden Animations,10
+CallMeCarson,Ludwig,10
+CallMeCarson,TimTom,10
+CallMeCarson,SomeThingElseYT,10
+CallMeCarson,Wilbur Soot,10
+CallMeCarson,Quackity,10
+CallMeCarson,Mark Rober,10
+CallMeCarson,CaptainSparklez,10
+CallMeCarson,jacksfilms,10
+CallMeCarson,Slimecicle,10
+CallMeCarson,jschlattLIVE,10
+CallMeCarson,William Osman,10
+Juniper,GD Colon,10
+Viprin,EricVanWilderman,10
+Viprin,npesta,10
+Viprin,Samifying,10
+Samifying,Juniper,7.5
+zylenox,npesta,10
+zylenox,IlluminaHD,10
+IlluminaHD,fruitberries,10
+IlluminaHD,Dream,10
+Dream,GeorgeNotFound,10
+Dream,Sapnap,10
+Dream,BadBoyHalo,10
+BadBoyHalo,Skeppy,10
+TommyInnit,DanTDM,10
+TommyInnit,Wilbur Soot,10
+TommyInnit,Technoblade,10
+TommyInnit,Ph1LzA,10
+Technoblade,Wilbur Soot,10
+Technoblade,Ph1LzA,10
+Quackity,Dream,10
+Quackity,MrBeast,10
+MrBeast,MrBeast Gaming,10
+MrBeast Gaming,Dream,10
+MrBeast Gaming,Technoblade,10
+MrBeast Gaming,Fundy,10
+MrBeast Gaming,SmallAnt,10
+Fundy,Dream,10
+Technoblade,Skeppy,10
+SmallAnt,Jaiden Animations,5
+TommyInnit,Dream,10
+TommyInnit,GeorgeNotFound,10
+TommyInnit,Sapnap,10
+TommyInnit,Tubbo,10
+TommyInnit,Fundy,10
+TommyInnit,Quackity,10
+TommyInnit,jschlattLIVE,10
+TommyInnit,Purpled,10
+TommyInnit,BadBoyHalo,10
+TommyInnit,Skeppy,10
+TommyInnit,TapL,10
+TommyInnit,Slimecicle,10
+Wilbur Soot,Ph1LzA,10
+Wilbur Soot,Dream,10
+Wilbur Soot,GeorgeNotFound,10
+Wilbur Soot,Sapnap,10
+Wilbur Soot,Tubbo,10
+Wilbur Soot,Fundy,10
+Wilbur Soot,Quackity,10
+Wilbur Soot,jschlattLIVE,10
+Wilbur Soot,Purpled,10
+Wilbur Soot,BadBoyHalo,10
+Wilbur Soot,Skeppy,10
+Technoblade,Ranboo,10
+Technoblade,Dream,10
+Technoblade,GeorgeNotFound,10
+Technoblade,Sapnap,10
+Technoblade,Tubbo,10
+Technoblade,Fundy,10
+Technoblade,Quackity,10
+Technoblade,jschlattLIVE,10
+Technoblade,Purpled,10
+Technoblade,BadBoyHalo,10
+Purpled,Dream,10
+Purpled,GeorgeNotFound,10
+Purpled,Sapnap,10
+Purpled,gamerboy80,10
+Purpled,SammyGreen,10
+gamerboy80,SammyGreen,10
+RoomieOfficial,The Anime Man,10
+Charles Cornell,bill wurtz,5
+PewDiePie,Mysticat,5
+Andrei Terbea,Dream,5
+Andrei Terbea,James Charles,5
+Andrei Terbea,TheOdd1sOut,5
+Andrei Terbea,Jaiden Animations,5
+Andrei Terbea,PewDiePie,5
+Alex Clark,Andrei Terbea,10
+Alex Clark,TheOdd1sOut,10
+James Charles,Cracking The Cryptic,5
+James Charles,Mumbo Jumbo,5
+James Charles,xisumavoid,5
+The Original Ace,JackSucksAtLife,10
+JackSucksAtLife,Wilbur Soot,10
+JackSucksAtLife,Dangthatsalongname,5
+JackSucksAtLife,SmallishBeans,5
+JackSucksAtLife,Eddie van der Meer,5
+JackSucksAtLife,Joe Jenkins,5
+JackSucksAtLife,LDShadowLady,5
+JackSucksAtLife,Davie504,5
+JackSucksAtLife,Skeppy,5
+JackSucksAtLife,GeoWizard,5
+JackSucksAtLife,Jeracraft,5
+JackSucksAtLife,TommyInnit,5
+JackSucksAtLife,Dream,5
+JackSucksAtLife,MrBeast,7.5
+JackSucksAtLife,jacksfilms,5
+JackSucksAtLife,AntVenom,5
+JackSucksAtLife,PewDiePie,5
+JackSucksAtLife,Technoblade,5
+JackSucksAtLife,Casey Neistat ,5
+JackSucksAtLife,Quackity,5
+Fundy,Jeracraft,10
+AntVenom,Dream,5
+WadZee,Fundy,10
+FitMC,AntVenom,10
+FitMC,Technoblade,10
+FitMC,Ph1LzA,10
+FitMC,CaptainSparklez,10
+FitMC,jschlattLIVE,10
+SalC1,FitMC,10
+The Horizon,SalC1,10
+Eddie van der Meer,The Anime Man,10
+JackSucksAtLife,JackSucksAtStuff,10
+SmallishBeans,LDShadowLady,10
+LDShadowLady,JackSucksAtStuff,10
+LDShadowLady,Dangthatsalongname,10
+SmallishBeans,Dream,10
+SmallishBeans,Dangthatsalongname,10
+SmallishBeans,fWhip,10
+SmallishBeans,PearlescentMoon,10
+Grian,PearlescentMoon,10
+Grian,Mumbo Jumbo,10
+PearlescentMoon,slicedlime,10
+PearlescentMoon,ZloyXP,10
+ZloyXP,slicedlime,10
+ZloyXP,Pixlriffs,10
+Hermitcraft Recap - a show by fans for fans,ZloyXP,10
+Hermitcraft Recap - a show by fans for fans,Pixlriffs,10
+Grian,xisumavoid,10
+Grian,rendog,10
+Grian,GoodTimesWithScar,10
+Grian,impulseSV,10
+Grian,iskall85,10
+Mumbo Jumbo,iskall85,10
+Mumbo Jumbo,rendog,10
+Mumbo Jumbo,rendog,10
+Mumbo Jumbo,GoodTimesWithScar,10
+Mumbo Jumbo,impulseSV,10
+xisumavoid,GoodTimesWithScar,10
+xisumavoid,impulseSV,10
+Grian,SmallishBeans,10
+Grian,Dangthatsalongname,10
+SmallishBeans,GoodTimesWithScar,10
+rendog,GoodTimesWithScar,10
+rendog,impulseSV,10
+rendog,SmallishBeans,10
+rendog,Dangthatsalongname,10
+Mumbo Jumbo,CraftyMasterman,5
+CraftyMasterman,Mysticat,10
+CraftyMasterman,Fundy,5
+ibxtoycat,Grian,10
+Mysticat,Animagician,10
+Mysticat,TedsAttic,10
+Wolfeei,Mysticat,10
+Wolfeei,Animagician,10
+Animagician,TedsAttic,10
+TedsAttic,Technoblade,5
+TedsAttic,Dangthatsalongname,5
+TedsAttic,JackSucksAtLife,5
+TedsAttic,Ph1LzA,5
+TedsAttic,Wilbur Soot,5
+TedsAttic,Fundy,5
+TedsAttic,Dream,5
+Animagician,Ph1LzA,5
+Animagician,Technoblade,5
+Animagician,CaptainSparklez,5
+Animagician,fruitberries,5
+Animagician,Fundy,5
+Animagician,Sapnap,5
+Animagician,Dream,5
+Animagician,Dangthatsalongname,5
+Animagician,Frostbyte Freeman,10
+Animagician,GoodTimesWithScar,5
+Animagician,impulseSV,5
+Animagician,Grian,5
+Animagician,rendog,5
+Frostbyte Freeman,Grian,5
+Frostbyte Freeman,GoodTimesWithScar,5
+Frostbyte Freeman,xisumavoid,5
+Frostbyte Freeman,Mumbo Jumbo,5
+Frostbyte Freeman,rendog,5
+Mysticat,Dream,5
+Wolfeei,Technoblade,5
+Frostbyte Freeman,Dream,5
+Frostbyte Freeman,Technoblade,5
+Animagician,TommyInnit,5
+TedsAttic,TommyInnit,5
+Mogi,Mysticat,10
+Hermitcraft Recap - a show by fans for fans,Grian,5
+Hermitcraft Recap - a show by fans for fans,Mumbo Jumbo,5
+Hermitcraft Recap - a show by fans for fans,iskall85,5
+Hermitcraft Recap - a show by fans for fans,GoodTimesWithScar,5
+Hermitcraft Recap - a show by fans for fans,rendog,5
+Animagician,Wilbur Soot,5
+wattles,Pixlriffs,5
+Skip the Tutorial,Slimecicle,10
+Electy,Dream,5
+Electy,Technoblade,5
+Electy,SeenSven,10
+SeenSven,MythrodakTV,10
+kindacoral,Wilbur Soot,5
+kindacoral,Technoblade,5
+kindacoral,TommyInnit,5
+kindacoral,Tubbo,5
+kindacoral,Ph1LzA,5
+kindacoral,Fundy,5
+PetermiMC,TommyInnit,5
+PetermiMC,Wilbur Soot,5
+Celestialrain,Frostbyte Freeman,10
+Celestialrain,Mysticat,10
+Celestialrain,Animagician,10
+Mumbo Jumbo,Rays Works,5
+Rays Works,Dream,5
+Mr.Puzzle,Chris Ramsay,5
+Mr.Puzzle,LockPickingLawyer,7.5
+LinusStudios,Dream,5
+LinusStudios,Wilbur Soot,5
+LinusStudios,TommyInnit,5
+LinusStudios,Wilbur Soot,5
+LinusStudios,jschlattLIVE,5
+LinusStudios,Quackity,5
+LinusStudios,Kirbey,10
+LinusStudios,wtrmln,10
+wtrmln,Kirbey,10
+Half-Asleep Chris,J.J. McCullough,10
+J.J. McCullough,Name Explain,5
+J.J. McCullough,Geography Now,5
+Zyphon,Sipover,10
+Zyphon,Purpled,10
+Zyphon,Fundy,10
+Zyphon,Dream,10
+Zyphon,Skeppy,10
+Zyphon,TapL,10
+Zyphon,Sapnap,10
+Zyphon,BadBoyHalo,10
+Zyphon,TommyInnit,10
+Sipover,Technoblade,5
+Sipover,Dream,5
+Sipover,IlluminaHD,5
+Sipover,fruitberries,5
+Sipover,gamerboy80,5
+TheMisterEpic,Dream,5
+TheMisterEpic,Technoblade,5
+TheMisterEpic,Grian,5
+TheMisterEpic,GoodTimesWithScar,5
+TheMisterEpic,Jeracraft,5
+TheMisterEpic,Rays Works,5
+carykh,Jabrils,10
+carykh,Kurzgesagt - In a Nutshell,5
+carykh,jacknjellify,10
+DoS - Domain of Science,Veritasium,5
+Freezepond,Adam Neely,5
+Freezepond,EmperorTigerstar,5
+EmperorTigerstar,Overly Sarcastic Productions,5
+AlternateHistoryHub,EmperorTigerstar,10
+AlternateHistoryHub,RealLifeLore,5
+AlternateHistoryHub,Wendover Productions,5
+EmperorTigerstar,Mr. Beat,5
+Whatifalthist,AlternateHistoryHub,5
+Whatifalthist,Vologda Mapping,10
+The Game Theorists,Dream,10
+Vsauce,Vsauce2,10
+Vsauce,Vsauce3,10
+The Game Theorists,Jaiden Animations,10
+The Game Theorists,Vsauce3,10
+The Game Theorists,Marques Brownlee,10
+The Game Theorists,Markiplier,10
+The Game Theorists,TheOdd1sOut,10
+The Game Theorists,Physics Girl,10
+The Game Theorists,Random Encounters,10
+The Game Theorists,Veritasium,10
+VoidViper Mapping Animation Production,Freezepond,10
+VoidViper Mapping Animation Production,Japanese Mapping,7.5
+Japanese Mapping,CheezeWafflz,5
+Japanese Mapping,Korean Mapping,5
+CheezeWafflz,Korean Mapping,10
+The Sunset Productions,Korean Mapping,10
+Bace Bulgarian Mapper,Monsieur Z,10
+Monsieur Z,AlternateHistoryHub,10
+brain4breakfast,Cogito,10
+Cogito,The Cynical Historian,5
+EmperorTigerstar,The Cynical Historian,5
+Random Encounters,OR3O,10
+Random Encounters,CG5,10
+Random Encounters,Markiplier,10
+Random Encounters,jacksepticeye,10
+Random Encounters,Genuine,10
+OR3O,CG5,10
+OR3O,Genuine,10
+OR3O,The Musical Ghost,10
+OR3O,RichaadEB,10
+Genuine,CG5,10
+CG5,DAGames,10
+CG5,The Living Tombstone,5
+CG5,RichaadEB,10
+CG5,Dream,5
+The Living Tombstone,OR3O,10
+CG5,The Stupendium,10
+DAGames,Dan Bull,10
+PewDiePie,Markiplier,10
+PewDiePie,jacksepticeye,10
+Markiplier,jacksepticeye,10
+RTGame,jacksepticeye,10
+RTGame,Wilbur Soot,10
+Mr. Terry History,RealLifeLore,5
+Mr. Terry History,Overly Sarcastic Productions,5
+Ariosor11,Grian,5
+Ariosor11,Mumbo Jumbo,5
+Ariosor11,iskall85,5
+Ariosor11,GoodTimesWithScar,5
+Ariosor11,impulseSV,5
+Ariosor11,Wilbur Soot,5
+Ariosor11,TommyInnit,5
+Ariosor11,Fundy,5
+Ariosor11,Tubbo,5
+Ariosor11,Dream,5
+Ariosor11,Quackity,5
+Ariosor11,jschlattLIVE,5
+Ariosor11,Technoblade,5
+Ariosor11,Ph1LzA,5
+Ariosor11,rendog,5
+Ariosor11,Dangthatsalongname,5
+Ariosor11,SmallishBeans,5
+Ludwig,GeoWizard,10
+Ludwig,Technoblade,10
+Ludwig,Atrioc,10
+Atrioc,Kento Bento,5
+Atrioc,CGPGrey,5
+Atrioc,exurb1a,5
+SmallishBeans,Tubbo,10
+SmallishBeans,TapL,10
+SmallishBeans,fruitberries,10
+SmallishBeans,TommyInnit,10
+Etra Games,Extra Credits,5
+Etra Games,SocraTetris,10
+Etra Games,Daryl Talks Games,7.5
+Etra Games,Razbuten,5
+Razbuten,Snoman Gaming,10
+Adam Millard - The Architect of Games,Game Maker's Toolkit,5
+Etra Games,Game Maker's Toolkit,5
+BWDev,Game Maker's Toolkit,5
+BWDev,Blackthornprod,5
+BWDev,Brackeys,5
+BWDev,Jonas Tyroller,5
+BWDev,Sam Hogan,5
+BWDev,ThinMatrix,5
+BWDev,Dani,5
+D!NG,Vsauce,10
+D!NG,Vsauce2,10
+D!NG,Vsauce3,10
+LegalEagle,hbomberguy,10
+LegalEagle,12tone,10
+CDawgVA,Daidus,10
+CDawgVA,Gigguk,10
+CDawgVA,The Anime Man,10
+carykh,Boyinaband,7.5
+Sebastian Lague,suckerpinch,5
+Paddy Galloway,Graham Stephan,5
+TechLead,Graham Stephan,10
+Joma Tech,TechLead,10
+TechLead,Cl?ment Mihailescu,10
+Cl?ment Mihailescu,Ben Awad,10
+carykh,CodeParade,5
+CodeParade,Code Bullet,5
+CodeParade,The Coding Train,5
+The Coding Train,Sebastian Lague,5
+3Blue1Brown,The Coding Train,5
+YoBGS,Jaiden Animations,5
+YoBGS,Danny Gonzalez,5
+YoBGS,SmallAnt,5
+YoBGS,MysteryOre,5
+YoBGS,GeorgeNotFound,5
+YoBGS,Dream,5
+YoBGS,Technoblade,5
+YoBGS,Wilbur Soot,5
+YoBGS,MrBeast,5
+YoBGS,FitMC,5
+YoBGS,TommyInnit,5
+YoBGS,TheOdd1sOut,5
+YoBGS,Purpled,5
+YoBGS,The Game Theorists,5
+YoBGS,SAD-ist,5
+YoBGS,CG5,5
+YoBGS,Black Plasma Studios,5
+SAD-ist,Dream,5
+SAD-ist,Technoblade,5
+SAD-ist,MrBeast,5
+SAD-ist,Tubbo,5
+SAD-ist,Quackity,5
+SAD-ist,TommyInnit,5
+SAD-ist,BadBoyHalo,5
+SAD-ist,Wilbur Soot,5
+Animagician,SAD-ist,5
+The8BitDrummer,Wintergatan,5
+The8BitDrummer,DAGames,5
+The8BitDrummer,The Living Tombstone,5
+The8BitDrummer,Triple-Q,5
+The8BitDrummer,Turbo,5
+Turbo,Keisari,10
+The8BitDrummer,LiterallyNoOne,5
+The8BitDrummer,Magentium,5
+TheFatRat,LiterallyNoOne,7.5
+Magentium,PewDiePie,5
+Magentium,Vsauce,5
+Magentium,CaptainSparklez,5
+Magentium,Dream,5
+The8BitDrummer,CaptainSparklez,5
+The8BitDrummer,DoodleChaos,5
+The8BitDrummer,Sheet Music Boss,5
+Jachael123,CaptainSparklez,5
+Jachael123,PewDiePie,5
+Jachael123,Dream,5
+Sheet Music Boss,EpreTroll,10
+Sheet Music Boss,MusiMasta,10
+BGH Music,TheFatRat,5
+MusiMasta,EpreTroll,5
+MusiMasta,TheFatRat,5
+MusiMasta,PewDiePie,5
+MattColbo,Tom Scott,5
+Reigarw Comparisons,MrBeast,5
+MetaBallStudios,Reigarw Comparisons,10
+jacknjellify,AnimationEpic,10
+Sebastian Lague,Primer,5
+Sebastian Lague,ThinMatrix,5
+Primer,3Blue1Brown,5
+Joseph's Machines,Sprice Machines,10
+Sprice Machines,Hevesh5,10
+Sprice Machines,DoodleChaos,10
+Sprice Machines,TheInvention11,10
+Joseph's Machines,Hevesh5,10
+Joseph's Machines,jackofallspades98,10
+jackofallspades98,TheInvention11,10
+jackofallspades98,TheRGMGuy01,10
+TheRGMGuy01,TheInvention11,10
+Hevesh5,Casey Neistat ,10
+Hevesh5,SmarterEveryDay,10
+Hevesh5,Socratica,10
+Hevesh5,Mr. Beat,10
+Hevesh5,DoS - Domain of Science,10
+jackofallspades98,jacksfilms,5
+jackofallspades98,Vsauce,5
+Ludwig,SmallAnt,10
+RedKB,Mathologer,5
+J Perm,RedKB,5
+Dan Bull,The Stupendium,10
+TryHardNinja,Dan Bull,10
+The Living Tombstone,Dan Bull,10
+CaptainSparklez,TryHardNinja,10
+Atrioc,SmallAnt,10
+Aleph 0,Socratica,5
+DanTDM,Technoblade,10
+The Right Opinion,MrBeast,5
+The Right Opinion,Kurzgesagt - In a Nutshell,5
+The Right Opinion,TheOdd1sOut,5
+The Right Opinion,TimTom,5
+The Right Opinion,SomeThingElseYT,5
+DaftPina,The Right Opinion,10
+DaftPina,FootofaFerret,5
+The Right Opinion,Thafnine,10
+The Right Opinion,The Anime Man,5
+The Right Opinion,Jaiden Animations,5
+DaftPina,Andrei Terbea,10
+DaftPina,TimTom,10
+DaftPina,Let Me Explain Studios,5
+DaftPina,TheOdd1sOut,5
+DaftPina,Daidus,5
+Ilyx,CaptainSparklez,5
+The Game Theorists,The Film Theorists,10
+The Film Theorists,Dad,7.5
+Inside A Mind,Dad,5
+Night Mind,Dad,5
+Timeworks,PewDiePie,5
+Timeworks,MrBeast,5
+Timeworks,JackSucksAtLife,7.5
+TheTekkitRealm,Alan Becker,5
+TheTekkitRealm,The Game Theorists,5
+TheTekkitRealm,Kurzgesagt - In a Nutshell,5
+TheTekkitRealm,Mark Rober,5
+TheTekkitRealm,Vsauce,5
+TheTekkitRealm,Dream,5
+TheTekkitRealm,nigahiga,5
+TheTekkitRealm,James Charles,5
+TheTekkitRealm,DanTDM,5
+TheTekkitRealm,jacksepticeye,5
+TheTekkitRealm,Markiplier,5
+TheTekkitRealm,MrBeast,5
+TheTekkitRealm,Dude Perfect,5
+TheTekkitRealm,PewDiePie,5
+Alan Becker,Animators VS Games,10
+Animators VS Games,TheOdd1sOut,10
+makeUmove,DAGames,5
+makeUmove,Wintergatan,5
+makeUmove,The Living Tombstone,5
+omotea,The Living Tombstone,5
+Artemisblue,The Living Tombstone,5
+Artemisblue,TheFatRat,5
+juljas,The Living Tombstone,5
+Tom Carroll,AustinMcConnell,5
+Tom Carroll,Mark Rober,10
+Tom Carroll,Tom Scott,10
+Tom Carroll,It's Okay to be Smart,10
+Tom Carroll,TierZoo,10
+Tom Carroll,Vsauce2,10
+Tom Carroll,Steve Mould,10
+Tom Carroll,Answer in Progress,10
+Mumbo Jumbo,AustinMcConnell,5
+Hurlebatte,AustinMcConnell,5
+Jacob Geller,Razbuten,5
+Solar Sands,Jacob Geller,5
+Medium D Speaks,CGPGrey,5
+Medium D Speaks,exurb1a,5
+Medium D Speaks,Kurzgesagt - In a Nutshell,5
+Medium D Speaks,Overly Sarcastic Productions,5
+Medium D Speaks,AustinMcConnell,5
+Medium D Speaks,Boyinaband,5
+Medium D Speaks,Razbuten,5
+Medium D Speaks,Tapakapa,5
+Medium D Speaks,Atlas Pro,5
+Medium D Speaks,Hello Future Me,5
+Medium D Speaks,PolyMatter,5
+Medium D Speaks,RealLifeLore,5
+Medium D Speaks,Wendover Productions,5
+Overly Sarcastic Productions,Hello Future Me,10
+James Tullos,Hello Future Me,5
+Stoneworks,James Tullos,10
+RedFireRex RFR,Stoneworks,5
+JELLYDAN,Stoneworks,5
+CraftyMasterman,Firel,10
+Tom Scott,Rikki Poynter,10
+jan Misali,Rikki Poynter,5
+Artifexian,jan Misali,10
+Artifexian,Worldbuilding Notes,10
+Artifexian,Biblaridion,10
+Artifexian,Xidnaf,10
+NativLang,Xidnaf,5
+NativLang,Alliterative,7.5
+Ecolinguist,Simon Roper,10
+Ecolinguist,pol?MATHY,10
+Simon Roper,Jackson Crawford,10
+Bahador Alast,Ecolinguist,10
+Leornende Eald Englisc,Jackson Crawford,5
+RobWords,Leornende Eald Englisc,5
+Rikki Poynter,Ecolinguist,2.5
+Rikki Poynter,Lindie Botes,2.5
+Lindie Botes,Steve Kaufmann - lingosteve,10
+ColeLangs,Lindie Botes,10
+Chinesewith-Xiaolu,Ikenna,5
+Chinesewith-Xiaolu,Steve Kaufmann - lingosteve,5
+Wouter Corduwener,Lindie Botes,10
+Wouter Corduwener,Steve Kaufmann - lingosteve,10
+J.J. McCullough,Langfocus,2.5
+That Japanese Man Yuta,Abroad in Japan,5
+KeyanTheGreat,CaptainSparklez,7.5
+KeyanTheGreat,Tubbo,7.5
+EazySpeezy,Jaiden Animations,5
+OmicronGaming,CaptainSparklez,5
+Wifies,TrixyBlox,5
+Wifies,PippenFTS,5
+Wifies,Ph1LzA,5
+Wifies,Jeracraft,5
+Wifies,Dream,5
+Wifies,TommyInnit,5
+Wifies,TapL,5
+Wifies,Skeppy,5
+Wifies,Sapnap,5
+Wifies,Technoblade,5
+Wifies,Fundy,5
+Wifies,The Original Ace,5
+Wifies,ibxtoycat,5
+Wifies,BadBoyHalo,5
+Wifies,Mumbo Jumbo,5
+William Osman,Mark Rober,10
+William Osman,NileRed,10
+The Math Sorcerer,Wrath of Math,7.5
+Yuunarii,CDawgVA,3.75
+Yuunarii,Tabbes,3.75
+Yuunarii,Sultan Sketches,3.75
+Wolfychu,Static-P,5
+Emirichu,Static-P,5
+OR3O,Static-P,5
+Tina,Static-P,5
+Avl?nskt,Tina,10
+cydtri music,Avl?nskt,5
+CypherDen,Jaiden Animations,10
+CypherDen,GingerPale,10
+CypherDen,Emirichu,10
+CypherDen,illymation,10
+CypherDen,TimTom,10
+CypherDen,Let Me Explain Studios,10
+CypherDen,Markiplier,5
+Phoenix SC,Dream,10
+Phoenix SC,GeorgeNotFound,10
+Phoenix SC,Fundy,10
+Nate Punzalan,Chris Ramsay,10
+BossKerati,Nate Punzalan,10
+BossKerati,Point of View,10
+BossKerati,Steep Family,10
+truefaster,SteveKunG,10
+truefaster,cCraftedStudio,10
+truefaster,PlearnGaming,10
+truefaster,MT - Mew Minecraft,10
+truefaster,MC Mr.Sunboy,10
+truefaster,Filllykung,10
+MT - Mew Minecraft,[tackle4826] - Tackle Minecraft,10
+MT - Mew Minecraft,PlearnGaming,10
+PlearnGaming,[tackle4826] - Tackle Minecraft,10
+SteveKunG,cCraftedStudio,10
+SteveKunG,Filllykung,10
+truefaster,[tackle4826] - Tackle Minecraft,5
+Filllykung,Steep Family,10
+Filllykung,Gibpuri Ch,10
+Gibpuri Ch,Newzkung Raccoonza,10
+Gibpuri Ch,Aito LH,10
+Newzkung Raccoonza,Aito LH,10
+NottO NBK.,Aito LH,5
